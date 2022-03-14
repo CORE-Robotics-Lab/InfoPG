@@ -1,12 +1,12 @@
 # InfoPG: Mutual Information Maximizing Policy Gradient
 
-This repo provides the full implementation for the paper "Iterated Reasoning with Mutual Information in Cooperative and Byzantine Decentralized Teaming" at the International Conference on Learning Representations (ICLR) 2022
+This repo provides the full implementation for the paper "**Iterated Reasoning with Mutual Information in Cooperative and Byzantine Decentralized Teaming**" at the International Conference on Learning Representations (ICLR) 2022
 
-Authors: Sachin Konan\*, Esmaeil Seraj\*, Matthew Gombolay
+<u>Authors</u>: Sachin Konan\*, Esmaeil Seraj\*, Matthew Gombolay
 
 \* Co-first authors. These authors contributed equally to this work.
 
-Full Read: `https://arxiv.org/pdf/2201.08484.pdf`
+<u>Full Read (arXiv)</u>: `https://arxiv.org/pdf/2201.08484.pdf`
 
 ### Installation Instructions:
 1. Download Anaconda
