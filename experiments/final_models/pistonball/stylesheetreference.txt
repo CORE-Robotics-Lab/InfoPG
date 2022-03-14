@@ -1,0 +1,26 @@
+['Solarize_Light2', 
+'_classic_test_patch',   ---> Nice
+'bmh', 
+'classic', 
+'dark_background', 
+'fast',                  ---> Nice
+'fivethirtyeight',
+'ggplot', 
+'grayscale', 
+'seaborn', 
+'seaborn-bright', 
+'seaborn-colorblind', 
+'seaborn-dark', 
+'seaborn-dark-palette', 
+'seaborn-darkgrid',      ---> Nice 
+'seaborn-deep', 
+'seaborn-muted', 
+'seaborn-notebook',      ---> Nice
+'seaborn-paper',         ---> Nice
+'seaborn-pastel', 
+'seaborn-poster',        ---> Nice
+'seaborn-talk',          ---> Nice
+'seaborn-ticks',         ---> Nice
+'seaborn-white', 
+'seaborn-whitegrid', 
+'tableau-colorblind10']  ---> Nice

@@ -1,0 +1,1 @@
+Args: batch 128, workers 64, adv normal, critic False

@@ -1,0 +1,1 @@
+Args: batch 32, workers 16, k-levels 0, adv normal, critic False, consensus True
